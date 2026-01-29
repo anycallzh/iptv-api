@@ -3,7 +3,6 @@
 https://txt.gt.tc/users/HKTV.txt
 https://bc.188766.xyz/?ip=&mima=bingcha1130
 https://tmxk.pp.ua/smart-cn.m3u
-https://tmxk.pp.ua/4gtv-cn.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
