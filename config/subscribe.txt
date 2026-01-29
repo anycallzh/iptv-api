@@ -16,11 +16,8 @@ https://iptv.b2og.com/txt/fmml_ipv6.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
-http://iptv.cqshushu.com/?s=X3hQuuiq0Hf3DACwXC0-XQ&t=hotel&channels=1&format=m3u
-http://iptv.cqshushu.com/?s=PIkt99ZwQLpWV-wp5KaRCA&t=hotel&channels=1&format=m3u
 http://iptv.cqshushu.com/?s=aCJdW_QqLnXcHH1xGHYgnw&t=hotel&channels=1&format=m3u
-http://iptv.cqshushu.com/index.php?s=6LM3pYoRAj_lxbv4xHN2Hg&t=multicast&channels=1&format=m3u
-http://iptv.cqshushu.com/index.php?s=PrWhYuBXakPfHhGrTfQFOQ&t=multicast&channels=1&format=m3u
+http://iptv.cqshushu.com/index.php?s=WdlTvts-YRXMWBWyuQvomQ&t=hotel&channels=1&format=m3u
 
 
 
